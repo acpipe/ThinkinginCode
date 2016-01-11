@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Thinkinginjava.iml" filepath="$PROJECT_DIR$/Thinkinginjava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Thinkinginjava.iml" filepath="$PROJECT_DIR$/.idea/Thinkinginjava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hitcs-thinkinginjava/hitcs-thinkinginjava.iml" filepath="$PROJECT_DIR$/hitcs-thinkinginjava/hitcs-thinkinginjava.iml" />
     </modules>
   </component>
 </project>

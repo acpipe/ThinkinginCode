@@ -6,6 +6,7 @@ public class FullConstruct {
         throw new MyException();
     }
 
+
     public static void g(String msg) throws MyException {
         System.out.println("Exception from g()");
         throw new MyException(msg);
