@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Thinkinginjava.iml" filepath="$PROJECT_DIR$/Thinkinginjava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Thinkinginjava.iml" filepath="$PROJECT_DIR$/.idea/Thinkinginjava.iml" />
     </modules>
   </component>
 </project>
