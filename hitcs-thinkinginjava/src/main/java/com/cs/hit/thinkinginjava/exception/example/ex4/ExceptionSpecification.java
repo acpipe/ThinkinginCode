@@ -8,6 +8,9 @@ public class ExceptionSpecification {
             //have to say this
             //since f() have been specified throw exception
         } catch (Exception e) {
+            System.out.println(e.getMessage());
+            System.out.println("------");
+            System.out.println(e);
             e.printStackTrace();
         }
     }
