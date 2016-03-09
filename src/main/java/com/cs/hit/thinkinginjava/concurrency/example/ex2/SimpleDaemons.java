@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
  * Created by Acceml on 2016/1/20.
  */
 public class SimpleDaemons implements Runnable {
-    @Override
+
     public void run() {
         try {
             while (true) {
