@@ -1,4 +1,4 @@
-package com.cs.hit.thinkinginjava.effective.item9;
+package com.cs.hit.effectivejava.item9;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.cs.hit.thinkinginjava.effective.item4;
+package com.cs.hit.effectivejava.item4;
 
 import java.io.Serializable;
 

@@ -1,4 +1,4 @@
-package com.cs.hit.thinkinginjava.effective.item8.reflexivity;
+package com.cs.hit.effectivejava.item8.reflexivity;
 
 import java.util.ArrayList;
 import java.util.Collection;

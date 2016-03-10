@@ -1,4 +1,4 @@
-package com.cs.hit.thinkinginjava.effective.item8.symmetry;
+package com.cs.hit.effectivejava.item8.symmetry;
 
 import java.util.ArrayList;
 import java.util.List;
