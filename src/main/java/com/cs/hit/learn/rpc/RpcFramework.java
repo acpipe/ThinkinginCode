@@ -1,4 +1,4 @@
-package com.cs.hit.learn.rpclearn;
+package com.cs.hit.learn.rpc;
 
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;

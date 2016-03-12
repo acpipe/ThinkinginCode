@@ -1,4 +1,4 @@
-package com.cs.hit.learn.rpclearn;
+package com.cs.hit.learn.rpc;
 
 /**
  * Created by Acceml on 2016/3/12.
