@@ -1,1 +1,2 @@
-#thinking in java
+#practice in learning book or new tech
+
