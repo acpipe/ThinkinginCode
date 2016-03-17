@@ -1,4 +1,4 @@
-package com.cs.hit.learn.thinkinginjava.concurrency.example.priority;
+package com.cs.hit.learn.thinkinginjava.concurrency.example.thread.priority;
 
 public class Priority implements Runnable {
 

@@ -1,4 +1,4 @@
-package com.cs.hit.learn.thinkinginjava.concurrency.example.priority;
+package com.cs.hit.learn.thinkinginjava.concurrency.example.thread.priority;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

@@ -1,4 +1,4 @@
-package com.cs.hit.learn.thinkinginjava.concurrency.example.sleeping;
+package com.cs.hit.learn.thinkinginjava.concurrency.example.thread.sleeping;
 
 import java.util.concurrent.TimeUnit;
 
