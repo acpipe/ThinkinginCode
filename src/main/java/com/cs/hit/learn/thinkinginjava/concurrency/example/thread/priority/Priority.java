@@ -1,6 +1,6 @@
 package com.cs.hit.learn.thinkinginjava.concurrency.example.thread.priority;
 
-public class Priority implements Runnable {
+class Priority implements Runnable {
 
     private  int priority;
 

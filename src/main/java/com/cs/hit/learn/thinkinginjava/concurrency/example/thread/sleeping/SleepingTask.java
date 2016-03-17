@@ -2,7 +2,7 @@ package com.cs.hit.learn.thinkinginjava.concurrency.example.thread.sleeping;
 
 import java.util.concurrent.TimeUnit;
 
-public class SleepingTask implements Runnable{
+class SleepingTask implements Runnable{
 
     private int i=0;
 

@@ -1,4 +1,4 @@
-package com.cs.hit.learn.thinkinginjava.annotation.example.ex1;
+package com.cs.hit.learn.thinkinginjava.annotation.create;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
