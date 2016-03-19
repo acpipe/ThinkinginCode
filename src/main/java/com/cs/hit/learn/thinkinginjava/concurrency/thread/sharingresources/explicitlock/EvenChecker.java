@@ -1,4 +1,4 @@
-package com.cs.hit.learn.thinkinginjava.concurrency.thread.synchronize;
+package com.cs.hit.learn.thinkinginjava.concurrency.thread.sharingresources.explicitlock;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

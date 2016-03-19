@@ -1,4 +1,4 @@
-package com.cs.hit.learn.thinkinginjava.concurrency.thread.synchronize;
+package com.cs.hit.learn.thinkinginjava.concurrency.thread.sharingresources.implicitlock;
 
 /**
  * Created by Acceml on 2016/3/19.
