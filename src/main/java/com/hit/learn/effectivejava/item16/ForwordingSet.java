@@ -1,3 +1,4 @@
+
 package com.hit.learn.effectivejava.item16;
 
 import java.util.Collection;

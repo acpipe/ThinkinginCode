@@ -1,9 +1,10 @@
-package com.hit.learn.designpatten.proxy;
+package com.hit.learn.proxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
 public class FirstInvocationHandler implements InvocationHandler{
+
     private Object o;
 
     public FirstInvocationHandler(Object o) {

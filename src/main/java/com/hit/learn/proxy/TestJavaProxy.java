@@ -1,4 +1,4 @@
-package com.hit.learn.designpatten.proxy;
+package com.hit.learn.proxy;
 
 import java.lang.reflect.Proxy;
 import java.util.concurrent.Callable;
