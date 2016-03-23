@@ -20,7 +20,7 @@ package com.hit.learn.thinkinginjava.innerclass.linkoutside;
  * Created by Acceml on 2016/3/23.
  * Email: huminghit@gmail.com
  */
-public class Sequence {
+class Sequence {
 
     public Object[] items;
 

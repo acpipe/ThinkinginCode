@@ -20,7 +20,7 @@ package com.hit.learn.thinkinginjava.innerclass.usethisandnew;
  * Created by Acceml on 2016/3/23.
  * Email: huminghit@gmail.com
  */
-public class DotThis {
+class DotThis {
 
     public void f() {
         System.out.println("f()");

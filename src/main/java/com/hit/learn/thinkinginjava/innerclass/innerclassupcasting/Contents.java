@@ -14,34 +14,12 @@
  *   limitations under the License.
  */
 
-package com.hit.learn.thinkinginjava.innerclass.usethisandnew;
+package com.hit.learn.thinkinginjava.innerclass.innerclassupcasting;
 
 /**
  * Created by Acceml on 2016/3/23.
  * Email: huminghit@gmail.com
  */
-class Parcel3 {
-    class Contents {
-        private int i = 11;
-
-        public int value() {
-            return i;
-        }
-    }
-
-    class Destination {
-        private String label;
-
-        public Destination(String label) {
-            this.label = label;
-        }
-
-        String readLable() {
-            return label;
-        }
-    }
-
-    public static void main(String [] args) {
-        Parcel3 p=new Parcel3();
-    }
+interface Contents {
+    int valur();
 }

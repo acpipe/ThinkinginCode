@@ -14,34 +14,40 @@
  *   limitations under the License.
  */
 
-package com.hit.learn.thinkinginjava.innerclass.usethisandnew;
+package com.hit.learn.thinkinginjava.innerclass.innerclassupcasting;
 
 /**
  * Created by Acceml on 2016/3/23.
  * Email: huminghit@gmail.com
  */
-class Parcel3 {
-    class Contents {
+class Pacel4 {
+    private class PContents implements Contents {
         private int i = 11;
 
-        public int value() {
+        @Override
+        public int valur() {
             return i;
         }
     }
 
-    class Destination {
+    protected class PDestination implements Destination {
         private String label;
 
-        public Destination(String label) {
+        public PDestination(String label) {
             this.label = label;
         }
 
-        String readLable() {
+        @Override
+        public String readTable() {
             return label;
         }
     }
 
-    public static void main(String [] args) {
-        Parcel3 p=new Parcel3();
+    public Destination destination(String s) {
+        return new PDestination(s);
+    }
+
+    public Contents contents() {
+        return new PContents();
     }
 }

@@ -20,7 +20,7 @@ package com.hit.learn.thinkinginjava.innerclass.create;
  * Created by Acceml on 2016/3/22.
  * Email: huminghit@gmail.com
  */
-public class CreateInnerClass {
+class CreateInnerClass {
 
     class Contents {
         private int i = 11;
