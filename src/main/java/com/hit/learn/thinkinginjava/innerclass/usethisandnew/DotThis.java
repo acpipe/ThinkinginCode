@@ -14,17 +14,31 @@
  *   limitations under the License.
  */
 
-package com.hit.learn.thinkinginjava.innerclass.linkoutside;
+package com.hit.learn.thinkinginjava.innerclass.usethisandnew;
 
 /**
  * Created by Acceml on 2016/3/23.
  * Email: huminghit@gmail.com
  */
-interface Selector {
+public class DotThis {
 
-    boolean end();
+    public void f() {
+        System.out.println("f()");
+    }
 
-    Object current();
+    public class Inner {
+        public DotThis outer() {
+            return DotThis.this;
+        }
+    }
 
-    void next();
+    public Inner inner() {
+        return new Inner();
+    }
+
+    public static void main(String [] args) {
+        DotThis dotThis=new DotThis();
+        DotThis.Inner inner=dotThis.inner();
+        inner.outer().f();
+    }
 }

@@ -14,17 +14,34 @@
  *   limitations under the License.
  */
 
-package com.hit.learn.thinkinginjava.innerclass.linkoutside;
+package com.hit.learn.thinkinginjava.innerclass.usethisandnew;
 
 /**
  * Created by Acceml on 2016/3/23.
  * Email: huminghit@gmail.com
  */
-interface Selector {
+public class Parcel3 {
+    class Contents {
+        private int i = 11;
 
-    boolean end();
+        public int value() {
+            return i;
+        }
+    }
 
-    Object current();
+    class Destination {
+        private String label;
 
-    void next();
+        public Destination(String label) {
+            this.label = label;
+        }
+
+        String readLable() {
+            return label;
+        }
+    }
+
+    public static void main(String [] args) {
+        Parcel3 p=new Parcel3();
+    }
 }
