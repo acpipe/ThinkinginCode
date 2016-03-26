@@ -27,6 +27,7 @@ public class Games {
 
         }
     }
+
     public static void main(String [] args) {
         Games.playGame(Checkers.factory);
         Games.playGame(Chess.factory);
