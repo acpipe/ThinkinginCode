@@ -16,10 +16,35 @@
 
 package com.hit.learn.thinkinginjava.concurrency.thread.volatileandstatic;
 
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
 /**
  * Created by Acceml on 2016/3/20.
  * Email: huminghit@gmail.com
  */
-public class VolatileClass {
+public class VolatileClass implements Runnable {
 
+    private volatile int i = 0;
+
+    @Override
+    public void run() {
+        i += 2;
+    }
+
+    public int getI() {
+        return i;
+    }
+
+    public static void main(String[] args) {
+        ExecutorService executorService = Executors.newCachedThreadPool();
+        VolatileClass volatileClass = new VolatileClass();
+        while (true) {
+            executorService.execute(volatileClass);
+            System.out.println(volatileClass.getI());
+            if (volatileClass.getI() % 2 != 0) {
+                System.exit(0);
+            }
+        }
+    }
 }
