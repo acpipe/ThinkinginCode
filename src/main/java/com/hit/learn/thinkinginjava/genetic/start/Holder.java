@@ -1,4 +1,4 @@
-package com.hit.learn.thinkinginjava.genetic.ex1;
+package com.hit.learn.thinkinginjava.genetic.start;
 
 public class Holder<T> {
     private T a;
