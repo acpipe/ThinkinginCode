@@ -6,6 +6,6 @@ package com.hit.learn.thinkinginjava.genetic.bounds;
  */
 public class BasicBounds {
     public static void main(String [] args) {
-        Solid<Bounded> solid=new Solid<>();
+
     }
 }
