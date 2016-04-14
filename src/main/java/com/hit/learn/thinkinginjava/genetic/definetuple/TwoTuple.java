@@ -1,4 +1,4 @@
-package com.hit.learn.thinkinginjava.genetic.ex2;
+package com.hit.learn.thinkinginjava.genetic.definetuple;
 
 public class TwoTuple<A,B> {
     public final A first;

@@ -25,26 +25,22 @@ import java.util.concurrent.Executors;
  */
 public class StaticClass implements Runnable {
 
-    private volatile int i = 0;
-
-    public boolean isZero() {
-        if (i != 0) {
-            System.out.println(i);
-            return false;
-        }
-        return true;
-    }
+    public static int i = 0;
 
     @Override
     public void run() {
-        i++;
-        i--;
+        i += 2;
     }
 
     public static void main(String[] args) {
         ExecutorService executorService = Executors.newCachedThreadPool();
-        while(true) {
-            executorService.execute(new StaticClass());
+        StaticClass staticClass = new StaticClass();
+        while (true) {
+            executorService.execute(staticClass);
+            System.out.println(StaticClass.i);
+            if (StaticClass.i % 2 != 0) {
+                System.exit(0);
+            }
         }
     }
 }
