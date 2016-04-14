@@ -14,7 +14,7 @@
  *   limitations under the License.
  */
 
-package com.hit.learn.thinkinginjava.containers;
+package com.hit.learn.thinkinginjava.container;
 
 import java.util.ArrayList;
 import java.util.Iterator;
