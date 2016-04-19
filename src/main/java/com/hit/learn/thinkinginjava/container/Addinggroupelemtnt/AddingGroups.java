@@ -6,7 +6,7 @@ import java.util.*;
  * Created by Acceml on 2016/3/30
  * Email: huminghit@gmail.com
  */
-public class AddingGroups {
+class AddingGroups {
     public static void main(String[] args) {
         Collection<Integer> collection = new ArrayList<>(Arrays.asList(1, 2, 3));
         Integer[] moreInts = {4, 5, 6};

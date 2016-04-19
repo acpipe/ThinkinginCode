@@ -22,7 +22,7 @@ import java.util.*;
  * Created by Acceml on 2016/4/14.
  * Email: huminghit@gmail.com
  */
-public class CrossContainerIteration {
+class CrossContainerIteration {
 
     public static <T> void display(Iterator<T> it) {
         while(it.hasNext()) {

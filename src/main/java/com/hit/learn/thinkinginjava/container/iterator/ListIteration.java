@@ -24,7 +24,7 @@ import java.util.ListIterator;
  * Created by Acceml on 2016/4/17.
  * Email: huminghit@gmail.com
  */
-public class ListIteration {
+class ListIteration {
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
         for (int i = 0; i < 10; i++) {
