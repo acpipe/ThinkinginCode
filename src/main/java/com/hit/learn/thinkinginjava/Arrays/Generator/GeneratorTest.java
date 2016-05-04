@@ -14,24 +14,24 @@
  *   limitations under the License.
  */
 
-package com.hit.learn.thinkinginjava.Arrays;
+package com.hit.learn.thinkinginjava.Arrays.Generator;
 
-import com.hit.learn.thinkinginjava.exception.example.ex9.Strike;
-
-import java.lang.reflect.Array;
-import java.util.Arrays;
-import java.util.List;
 
 /**
- * Created by Acceml on 2016/5/3.
+ * Created by Acceml on 2016/5/4.
  * Email: huminghit@gmail.com
  */
-class ContainerComparison {
-    public static void main(String[] args) {
-        BerylliumSphere [] sphere=new BerylliumSphere[10];
-        for(int i=0;i<5;i++) {
-            sphere[i] = new BerylliumSphere();
+public class GeneratorTest {
+    public static int size = 10;
+
+    public static void test(Class<?> surroundingClass) {
+        for (Class<?> type : surroundingClass.getClasses()) {
+            System.out.println(type.getSimpleName());
+            try {
+                Generator<?> g = (Generator<?>) type.newInstance();
+            }catch (Exception e) {
+
+            }
         }
-        System.out.printf(Arrays.toString(sphere));
     }
 }
