@@ -14,7 +14,7 @@
  *   limitations under the License.
  */
 
-package com.acceml.basic
+package com.acceml.basic.charpter2
 
 /**
  * Created by Acceml on 2016/8/1.
@@ -34,14 +34,25 @@ object Recursive {
       println(i)
       //到4
     }
-    var sum =0
+    var sum = 0
     for (i <- 0 to 10) {
       sum += i
     }
-    printf("0+1+...+10=%d", sum)
+    printf("0+1+...+10=%d\n", sum)
     //没有break 和 continue
 
-    printf("----Advance-------")
+    printf("----Advance-------\n")
+    for (i <- 1 to 3; j <- 1 to 3) {
+      print((i + j) + " ")
+    }
+    println()
+    //for循环生成器,yield关键字,以它第一个生成的类型为准
+    println(for (c <- "hello"; i <- 0 to 1) yield (c + i).toChar)
+    println(for (i <- 0 to 1; c <- "hello") yield (c + i).toChar)
+    //每个生成器可以带一个守卫
+    for (i <- 1 to 3; j <- 1 to 3 if i!=j) {
+      print((i +j) + " ")
+    }
 
   }
 }
