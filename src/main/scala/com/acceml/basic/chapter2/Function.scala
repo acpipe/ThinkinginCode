@@ -14,7 +14,7 @@
  *   limitations under the License.
  */
 
-package com.acceml.basic.charpter2
+package com.acceml.basic.chapter2
 
 /**
  * Created by Acceml on 2016/8/1.

@@ -20,23 +20,11 @@ package com.acceml.basic.chapter5
  * Created by Acceml on 2016/8/6.
  * Email: huminghit@gmail.com
  */
-//不生明为public
-class Counter {
-  private var value = 0
-  val name = "huming"
-  //不能修改，相当于final
-  //必须赋值
-  def increament() {
-    value += 1
-  }
-  //这个返回 Unit
-
-  def current() = value
-  //函数可以赋值
-//  有3种方式处理：
-//  var foo : scala 自动生成getter和setter方法
-//  val foo : scala 自动生成gettter方法。类似于java中的final字段
-//  自定义foo foo_方法
-
+class BeanProperty {
+  @BeanProperty var name : String = _
+//  生成四个方法：
+//  name:String
+//  name_ = (v : String) : Unit
+//  getName() :String
+//  setName(v : String) :Unit
 }
-

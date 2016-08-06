@@ -14,29 +14,31 @@
  *   limitations under the License.
  */
 
-package com.acceml.basic.chapter5
+package com.acceml.basic.chapter6.apply
 
 /**
- * Created by Acceml on 2016/8/6.
+ * Created by Acceml on 2016/8/7.
  * Email: huminghit@gmail.com
  */
-//不生明为public
-class Counter {
-  private var value = 0
-  val name = "huming"
-  //不能修改，相当于final
-  //必须赋值
-  def increament() {
-    value += 1
-  }
-  //这个返回 Unit
-
-  def current() = value
-  //函数可以赋值
-//  有3种方式处理：
-//  var foo : scala 自动生成getter和setter方法
-//  val foo : scala 自动生成gettter方法。类似于java中的final字段
-//  自定义foo foo_方法
-
+//这里的private什么意思：私有主构造器
+class Account private(val id: Int, init: Double) {
+  private var balance = init
 }
 
+//伴生对象
+object Account {
+  private var lastNumer = 0
+
+  def newUniqueNumber() = {
+    lastNumer += 1
+    lastNumer
+  }
+
+  def apply(init: Double) = {
+    new Account(newUniqueNumber(), init)
+  }
+
+  def main(args: Array[String]) {
+    val acct = Account(100.0)
+  }
+}

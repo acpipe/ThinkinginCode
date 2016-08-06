@@ -14,17 +14,25 @@
  *   limitations under the License.
  */
 
-package com.acceml.basic.charpter2
+package com.acceml.basic.chapter5
 
 /**
- * Created by Acceml on 2016/8/1.
+ * Created by Acceml on 2016/8/6.
  * Email: huminghit@gmail.com
  */
-object ReadLine {
+object Main {
   def main(args: Array[String]) {
-    val name = readLine("Your name:")
-    print("Your age: ")
-    val age = readInt()
-    printf("Name:%s Age: %d", name, age)
+    val myCounter = new Counter
+    myCounter.increament()
+    //改值用括号
+    myCounter.current
+    //取值最好不要用括号
+
+    val myPerson = new Person
+    println(myPerson.age)
+    myPerson.age=10
+    println(myPerson.age)
+
+
   }
 }

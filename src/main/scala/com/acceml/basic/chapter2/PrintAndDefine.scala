@@ -1,4 +1,4 @@
-package com.acceml.basic.charpter2
+package com.acceml.basic.chapter2
 
 //object 就是单例的class
 
