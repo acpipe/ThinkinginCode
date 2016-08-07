@@ -14,31 +14,28 @@
  *   limitations under the License.
  */
 
-package com.acceml.basic.chapter6.apply
+package com.acceml.basic.chapter6.prcatice
 
 /**
  * Created by Acceml on 2016/8/7.
  * Email: huminghit@gmail.com
  */
-//这里的private什么意思：私有主构造器
-class Account private(val id: Int, init: Double) {
-  private var balance = init
-}
+/**
+ * 扩展过app的直接有main函数，不用定义
+ */
+object Card extends Enumeration with App {
+  val M = Value("♣")
+  val T = Value("♠")
+  val H = Value("♥")
+  val F = Value("♦")
+  println(Card.M)
+  println(Card.T)
+  println(Card.H)
+  println(Card.F)
+  isRed(Card.H)
 
-//伴生对象,主要是为了解决静态方法调用的问题的，而不用new 就产生一个对象，实际上就是调用apply方法，通常的做法是在apply中new 对象
-object Account {
-  private var lastNumer = 0
-
-  def newUniqueNumber() = {
-    lastNumer += 1
-    lastNumer
+  def isRed(c: Card.Value) {
+    if (c == Card.M || c == Card.T) println("black") else println("red")
   }
 
-  def apply(init: Double) = {
-    new Account(newUniqueNumber(), init)
-  }
-
-  def main(args: Array[String]) {
-    val acct = Account(100.0)
-  }
 }
