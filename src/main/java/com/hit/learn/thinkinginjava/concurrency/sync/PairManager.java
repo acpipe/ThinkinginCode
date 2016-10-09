@@ -16,10 +16,7 @@
 
 package com.hit.learn.thinkinginjava.concurrency.sync;
 
-import scala.collection.LinearSeq;
-
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
