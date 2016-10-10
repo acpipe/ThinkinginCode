@@ -22,14 +22,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="Thinkinginjava" />
-      </profile>
-      <profile default="false" name="Annotation profile for ThinkinCode" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
         <module name="ThinkinCode" />
+        <module name="Thinkinginjava" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
