@@ -1,7 +1,6 @@
 package com.hit.learn.effectivejava.item28;
 
 import java.util.Collection;
-import java.util.Iterator;
 
 /**
  * Created by Acceml on 2016/10/25.
