@@ -6,24 +6,35 @@ import com.google.common.base.MoreObjects;
  * Created by Acceml on 2016/10/27.
  */
 public class RecommendAd {
-    private int appId;
+    private int a;
+    private int b;
 
-    public int getAppId() {
-        return appId;
+    public RecommendAd(int a, int b) {
+        this.a = a;
+        this.b = b;
     }
 
-    public void setAppId(int appId) {
-        this.appId = appId;
+    public int getA() {
+        return a;
     }
 
-    public RecommendAd(int appId) {
-        this.appId = appId;
+    public void setA(int a) {
+        this.a = a;
+    }
+
+    public int getB() {
+        return b;
+    }
+
+    public void setB(int b) {
+        this.b = b;
     }
 
     @Override
     public String toString() {
         return MoreObjects.toStringHelper(this)
-                .add("appId", appId)
+                .add("a", a)
+                .add("b", b)
                 .toString();
     }
 }
