@@ -10,6 +10,7 @@ import javax.ws.rs.Path;
 public class CheckService {
     private static int clickNum = 0;
     private static int viewNum = 0;
+    private static int testNum = 0;
 
     @GET
     @Path("click")
@@ -33,4 +34,14 @@ public class CheckService {
         return ret;
     }
 
+    @GET
+    @Path("test")
+    /**
+     * http://10.232.21.9:10086/test
+     */
+    public String test() {
+        String ret = "test:" + (++testNum);
+        System.out.println(ret);
+        return ret;
+    }
 }
