@@ -1,6 +1,5 @@
-package com.hit.learn;
+package com.hit.learn.mockbasic;
 
-import com.hit.learn.effectivejava.item8.reflexivity.A;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
