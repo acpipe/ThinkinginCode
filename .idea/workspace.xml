@@ -2,492 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0dede1ae-3d5f-4928-817a-ef1ecda21153" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/highlighting.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/acceml/basic/lesson/Main.scala" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_easymock_easymock_3_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/ThinkinCode-1.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes.-1852379672.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-mock.quickstart.EasyMockTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/mock.quickstart.EasyMockTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes.1469996225.timestamp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes.timestamp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Function$$anonfun$fac$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Function$$anonfun$fac$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Function$$anonfun$sum$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Function$$anonfun$sum$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Function$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Function$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Function.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Function.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/PrintAndDefine$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/PrintAndDefine$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/PrintAndDefine.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/PrintAndDefine.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/ReadLine$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/ReadLine$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/ReadLine.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/ReadLine.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$2.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$3.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$4$$anonfun$apply$mcVI$sp$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$4$$anonfun$apply$mcVI$sp$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$4.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$5$$anonfun$apply$mcVI$sp$2.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$5$$anonfun$apply$mcVI$sp$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$5$$anonfun$apply$mcVI$sp$3.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$5$$anonfun$apply$mcVI$sp$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$5.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$6$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$6$$anonfun$apply$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$6.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$7$$anonfun$apply$2.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$7$$anonfun$apply$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$7.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$$anonfun$main$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter2/Recursive.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayBasic$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayBasic$$anonfun$main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayBasic$$anonfun$main$2.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayBasic$$anonfun$main$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayBasic$$anonfun$main$3.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayBasic$$anonfun$main$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayBasic$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayBasic$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayBasic.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayBasic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$$anonfun$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$$anonfun$main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$$anonfun$main$2.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$$anonfun$main$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$$anonfun$main$3.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$$anonfun$main$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$$anonfun$main$4.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$$anonfun$main$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$$anonfun$main$5.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$$anonfun$main$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$$anonfun$main$6.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$$anonfun$main$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$$anonfun$main$7.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$$anonfun$main$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter3/ArrayMore.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/MapBasic$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/MapBasic$$anonfun$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/MapBasic$$anonfun$2.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/MapBasic$$anonfun$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/MapBasic$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/MapBasic$$anonfun$main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/MapBasic$$anonfun$main$2.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/MapBasic$$anonfun$main$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/MapBasic$$anonfun$main$3.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/MapBasic$$anonfun$main$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/MapBasic$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/MapBasic$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/MapBasic.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/MapBasic.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/Tuple$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/Tuple$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/Tuple.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/Tuple.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/DateMap$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/DateMap$$anonfun$main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/DateMap$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/DateMap$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/DateMap.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/DateMap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount$$anonfun$main$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount$$anonfun$main$1$$anonfun$apply$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount$$anonfun$main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount2$$anonfun$main$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount2$$anonfun$main$1$$anonfun$apply$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount2$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount2$$anonfun$main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount2$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount2$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount2.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount3$$anonfun$main$1$$anonfun$apply$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount3$$anonfun$main$1$$anonfun$apply$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount3$$anonfun$main$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount3$$anonfun$main$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount3$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount3$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount3.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/WordCount3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/price$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/price$$anonfun$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/price$$anonfun$2.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/price$$anonfun$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/price$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/price$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/price.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter4/practice/price.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter5/AuxiliaryConstructor.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter5/AuxiliaryConstructor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter5/BeanProperty.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter5/BeanProperty.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter5/Counter.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter5/Counter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter5/Main$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter5/Main$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter5/Main.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter5/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter5/Person.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter5/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter5/PrimaryConstructor$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter5/PrimaryConstructor$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter5/PrimaryConstructor.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter5/PrimaryConstructor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/Accounts$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/Accounts$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/Accounts.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/Accounts.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/EnumExample$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/EnumExample$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/EnumExample.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/EnumExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/apply/Account$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/apply/Account$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/apply/Account.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/apply/Account.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/extend/DoNothingAction$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/extend/DoNothingAction$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/extend/DoNothingAction.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/extend/DoNothingAction.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/extend/UndoAbleAction.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/extend/UndoAbleAction.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Card$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Card$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Card$delayedInit$body.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Card$delayedInit$body.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Card.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Card.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Conversions.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Conversions.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Origin.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Origin.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Point$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Point$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Point.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Point.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Reverse$$anonfun$1.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Reverse$$anonfun$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Reverse$.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Reverse$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Reverse$delayedInit$body.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Reverse$delayedInit$body.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Reverse.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/Reverse.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/UnitConversion.class" afterPath="$PROJECT_DIR$/target/classes/com/acceml/basic/chapter6/prcatice/UnitConversion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/CalculatorHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/CalculatorHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$AsyncClient$Factory.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$AsyncClient$Factory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$AsyncClient$multiply_call.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$AsyncClient$multiply_call.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$AsyncClient.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$AsyncClient.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$AsyncIface.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$AsyncIface.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$AsyncProcessor$multiply$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$AsyncProcessor$multiply$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$AsyncProcessor$multiply.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$AsyncProcessor$multiply.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$AsyncProcessor.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$AsyncProcessor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$Client$Factory.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$Client$Factory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$Client.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$Client.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$Iface.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$Iface.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$Processor$multiply.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$Processor$multiply.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$Processor.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$Processor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_args$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_args$_Fields.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_args$multiply_argsStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_args$multiply_argsStandardScheme.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_args$multiply_argsStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_args$multiply_argsStandardSchemeFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_args$multiply_argsTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_args$multiply_argsTupleScheme.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_args$multiply_argsTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_args$multiply_argsTupleSchemeFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_args.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_args.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_result$_Fields.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_result$_Fields.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_result$multiply_resultStandardScheme.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_result$multiply_resultStandardScheme.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_result$multiply_resultStandardSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_result$multiply_resultStandardSchemeFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_result$multiply_resultTupleScheme.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_result$multiply_resultTupleScheme.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_result$multiply_resultTupleSchemeFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_result$multiply_resultTupleSchemeFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_result.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService$multiply_result.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/MultiplicationService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/decorator/Beverage.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/decorator/Beverage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/decorator/Decorator.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/decorator/Decorator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/decorator/Singleton.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/decorator/Singleton.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/decorator/basic/DarkRoast.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/decorator/basic/DarkRoast.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/decorator/basic/Decaf.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/decorator/basic/Decaf.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/decorator/basic/HouseBlend.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/decorator/basic/HouseBlend.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/state/Account.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/state/Account.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/state/GoldState.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/state/GoldState.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/state/RedState.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/state/RedState.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/state/SliverState.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/state/SliverState.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/state/State.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/state/State.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/temple/CaffeinBeverage.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/designpattern/temple/CaffeinBeverage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item16/ForwordingSet.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item16/ForwordingSet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item16/InstrumentedHash.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item16/InstrumentedHash.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item18/PreferInterface$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item18/PreferInterface$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item18/PreferInterface.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item18/PreferInterface.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item27/GenericSingletonFactory$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item27/GenericSingletonFactory$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item27/GenericSingletonFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item27/GenericSingletonFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item27/UnaryFunction.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item27/UnaryFunction.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item28/Stack.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item28/Stack.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item28/StackTest.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item28/StackTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item29/Favorites.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item29/Favorites.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item4/EnumSingleton.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item4/EnumSingleton.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item8/reflexivity/A.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item8/reflexivity/A.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item8/reflexivity/B.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item8/reflexivity/B.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item8/symmetry/CaseInsensitiveString.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item8/symmetry/CaseInsensitiveString.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item9/PhoneNumber.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/effectivejava/item9/PhoneNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/fastjson/Ad.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/fastjson/Ad.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/fastjson/ObjectConvertToJson.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/fastjson/ObjectConvertToJson.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/http/Application.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/http/Application.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/http/Httpserver.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/http/Httpserver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/http/resources/CheckService.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/http/resources/CheckService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/netty/DiscardServer$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/netty/DiscardServer$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/netty/DiscardServer.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/netty/DiscardServer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/netty/DiscardServerHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/netty/DiscardServerHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/proxy/FirstInvocationHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/proxy/FirstInvocationHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/proxy/Phone.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/proxy/Phone.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/proxy/TestJavaProxy.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/proxy/TestJavaProxy.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/rpc/HelloService.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/rpc/HelloService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/rpc/HelloServiceImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/rpc/HelloServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/rpc/RpcConsumer.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/rpc/RpcConsumer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/rpc/RpcFramework$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/rpc/RpcFramework$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/rpc/RpcFramework$2.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/rpc/RpcFramework$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/rpc/RpcFramework.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/rpc/RpcFramework.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/rpc/RpcProvider.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/rpc/RpcProvider.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/anointerface/MockTest.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/anointerface/MockTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/anointerface/biz/A.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/anointerface/biz/A.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/anointerface/biz/B.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/anointerface/biz/B.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/anointerface/biz/C.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/anointerface/biz/C.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/anointerface/biz/D.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/anointerface/biz/D.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/anointerface/biz/Dimpl1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/anointerface/biz/Dimpl1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/anointerface/biz/Dimpl2.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/anointerface/biz/Dimpl2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/aop/App.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/aop/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/aop/CustomerBo.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/aop/CustomerBo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/aop/CustomerBoImpl.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/aop/CustomerBoImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/aop/LoggingAspect.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/aop/LoggingAspect.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/demo/App.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/demo/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/demo/StartApp.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/spring/demo/StartApp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/test/GeneraicClass.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/test/GeneraicClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/test/Planet.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/test/Planet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/test/RecommendAd.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/test/RecommendAd.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/test/SortHelper$Order.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/test/SortHelper$Order.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/test/SortHelper.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/test/SortHelper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/test/Test.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/test/Test.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/test/Test2.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/test/Test2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/test/TestMatchWord.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/test/TestMatchWord.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/Arrays/BerylliumSphere.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/Arrays/BerylliumSphere.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/Arrays/CompType.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/Arrays/CompType.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/Arrays/ContainerComparison.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/Arrays/ContainerComparison.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/Arrays/Generator/CountingGenerator$Boolean.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/Arrays/Generator/CountingGenerator$Boolean.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/Arrays/Generator/CountingGenerator$Long.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/Arrays/Generator/CountingGenerator$Long.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/Arrays/Generator/CountingGenerator.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/Arrays/Generator/CountingGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/Arrays/Generator/Generator.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/Arrays/Generator/Generator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/Arrays/Generator/GeneratorTest.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/Arrays/Generator/GeneratorTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/annotation/create/PassWordUtils.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/annotation/create/PassWordUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/annotation/create/UseCase.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/annotation/create/UseCase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/annotation/create/UseCaseTracker.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/annotation/create/UseCaseTracker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/ex1/SImplePriorities.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/ex1/SImplePriorities.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/ex2/SimpleDaemons.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/ex2/SimpleDaemons.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/ex3/DaemonFromFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/ex3/DaemonFromFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/ex3/DaemonThreadFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/ex3/DaemonThreadFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/ex4/CallableDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/ex4/CallableDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/ex4/TaskWithResult.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/ex4/TaskWithResult.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/ex5/MainThread.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/ex5/MainThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/catchexception/CaptrueUncaughtException.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/catchexception/CaptrueUncaughtException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/catchexception/ExceptionThread2.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/catchexception/ExceptionThread2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/catchexception/HandlerThreadFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/catchexception/HandlerThreadFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/catchexception/MyUncaughtExceptionHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/catchexception/MyUncaughtExceptionHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/catchexception/SettingDefaultHandler.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/catchexception/SettingDefaultHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/create/CachePoll.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/create/CachePoll.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/create/MyRunnable.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/create/MyRunnable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/create/MyThread.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/create/MyThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/returnvalue/CallableDemo.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/returnvalue/CallableDemo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/returnvalue/MyCallable.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/executor/returnvalue/MyCallable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/sync/CriticalSection.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/sync/CriticalSection.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/sync/Pair$PairValuesNotEqualException.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/sync/Pair$PairValuesNotEqualException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/sync/Pair.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/sync/Pair.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/sync/PairChecker.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/sync/PairChecker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/sync/PairManager.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/sync/PairManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/sync/PairManager1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/sync/PairManager1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/sync/PairManager2.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/sync/PairManager2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/sync/PairManipulator.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/sync/PairManipulator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/atomicityandvolatile/CircularSet.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/atomicityandvolatile/CircularSet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/atomicityandvolatile/SerialNumberChecker$SerialChecker.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/atomicityandvolatile/SerialNumberChecker$SerialChecker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/atomicityandvolatile/SerialNumberChecker.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/atomicityandvolatile/SerialNumberChecker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/atomicityandvolatile/SerialNumberGenerator.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/atomicityandvolatile/SerialNumberGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/create/MyRunnable.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/create/MyRunnable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/create/Mythread.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/create/Mythread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/create/NewThreadApproach$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/create/NewThreadApproach$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/create/NewThreadApproach.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/create/NewThreadApproach.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/fatherandson/Father.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/fatherandson/Father.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/fatherandson/Son.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/fatherandson/Son.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/join/Joiner.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/join/Joiner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/join/Joining.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/join/Joining.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/join/Sleeper.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/join/Sleeper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/priority/Priority.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/priority/Priority.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/priority/Task.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/priority/Task.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/responsiveconsole/Responsive.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/responsiveconsole/Responsive.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/responsiveconsole/Unresponsive.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/responsiveconsole/Unresponsive.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sharingresources/explicitlock/EvenChecker.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sharingresources/explicitlock/EvenChecker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sharingresources/explicitlock/IntGenerator.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sharingresources/explicitlock/IntGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sharingresources/explicitlock/MutexGenerator.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sharingresources/explicitlock/MutexGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sharingresources/grablock/Attemptlocking$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sharingresources/grablock/Attemptlocking$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sharingresources/grablock/Attemptlocking.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sharingresources/grablock/Attemptlocking.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sharingresources/implicitlock/EvenChecker.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sharingresources/implicitlock/EvenChecker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sharingresources/implicitlock/EvenGenerator.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sharingresources/implicitlock/EvenGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sharingresources/implicitlock/IntGenerator.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sharingresources/implicitlock/IntGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sleeping/ExecTask.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sleeping/ExecTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sleeping/SleepingTask.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/sleeping/SleepingTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/volatileandstatic/StaticClass.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/volatileandstatic/StaticClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/volatileandstatic/VolatileClass.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/concurrency/thread/volatileandstatic/VolatileClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/Addinggroupelemtnt/AddingGroups.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/Addinggroupelemtnt/AddingGroups.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/iterator/CrossContainerIteration.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/iterator/CrossContainerIteration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/iterator/ListIteration.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/iterator/ListIteration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/iterator/MapTest.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/iterator/MapTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/iterator/SimpleIteration.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/iterator/SimpleIteration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/set/SetOfInteger.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/set/SetOfInteger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/set/opreration/A.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/set/opreration/A.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/set/opreration/SetOperations.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/set/opreration/SetOperations.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/set/opreration/SubA.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/container/set/opreration/SubA.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/depthincontainers/fillingcontainers/FillLists.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/depthincontainers/fillingcontainers/FillLists.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/depthincontainers/fillingcontainers/StringAddress.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/depthincontainers/fillingcontainers/StringAddress.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex1/MultiExcption.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex1/MultiExcption.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex2/SystemError.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex2/SystemError.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex3/FullConstruct.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex3/FullConstruct.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex3/MyException.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex3/MyException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex4/ExceptionSpecification.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex4/ExceptionSpecification.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex4/NoExcprion.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex4/NoExcprion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex5/ExceptionMethods.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex5/ExceptionMethods.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex6/TheStackTrace.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex6/TheStackTrace.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex7/OneException.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex7/OneException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex7/RethrowDifferentException.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex7/RethrowDifferentException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex7/Rethrowing.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex7/Rethrowing.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex7/TwoException.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex7/TwoException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex8/AlwaysFinally.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex8/AlwaysFinally.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex8/FourException.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex8/FourException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/BaseballException.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/BaseballException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/ExcptionSilencer.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/ExcptionSilencer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/Foul.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/Foul.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/Inning.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/Inning.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/PopFoul.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/PopFoul.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/RainedOut.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/RainedOut.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/Storm.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/Storm.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/StormException.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/StormException.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/StormyInning.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/StormyInning.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/Strike.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/exception/example/ex9/Strike.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/bounds/BasicBounds.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/bounds/BasicBounds.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/bounds/Bounded.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/bounds/Bounded.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/bounds/Colored.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/bounds/Colored.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/bounds/ColoredDimension.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/bounds/ColoredDimension.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/bounds/Dimension.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/bounds/Dimension.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/bounds/HasColor.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/bounds/HasColor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/bounds/Solid.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/bounds/Solid.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/bounds/Weight.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/bounds/Weight.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/definegenetic/Apple.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/definegenetic/Apple.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/definegenetic/CountFruit.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/definegenetic/CountFruit.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/definegenetic/SubApple.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/definegenetic/SubApple.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/definetuple/TwoTuple.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/definetuple/TwoTuple.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/recursive/High.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/recursive/High.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/recursive/Man.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/recursive/Man.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/recursive/Weight.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/recursive/Weight.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/start/Holder.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/genetic/start/Holder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/classesinsideinterfaces/ClassInterface.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/classesinsideinterfaces/ClassInterface.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/controlframwork/Controller.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/controlframwork/Controller.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/controlframwork/Event.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/controlframwork/Event.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/create/CreateInnerClass$Contents.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/create/CreateInnerClass$Contents.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/create/CreateInnerClass$Destination.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/create/CreateInnerClass$Destination.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/create/CreateInnerClass.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/create/CreateInnerClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex1/Factories.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex1/Factories.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex1/Implementations1$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex1/Implementations1$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex1/Implementations1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex1/Implementations1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex1/Implementations2$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex1/Implementations2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex1/Implementations2.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex1/Implementations2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex1/Service.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex1/Service.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex1/ServiceFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex1/ServiceFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex2/Checkers$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex2/Checkers$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex2/Checkers.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex2/Checkers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex2/Chess$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex2/Chess$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex2/Chess.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex2/Chess.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex2/Game.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex2/Game.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex2/GameFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex2/GameFactory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex2/Games.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/factorymethodrevisited/ex2/Games.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/AnonymousConstructor$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/AnonymousConstructor$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/AnonymousConstructor.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/AnonymousConstructor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Base.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Base.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Contents.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Contents.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Destination.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Destination.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel11$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel11$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel11$ParcelContents.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel11$ParcelContents.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel11$ParcelDestinattion$AnotherLevel.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel11$ParcelDestinattion$AnotherLevel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel11$ParcelDestinattion.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel11$ParcelDestinattion.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel11.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel4$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel4$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel4$PContents.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel4$PContents.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel4$PDestination.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel4$PDestination.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel4.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel5$1PDestination.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel5$1PDestination.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel5$PDestination.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel5$PDestination.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel5.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel6$1TrackingSlip.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel6$1TrackingSlip.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel6.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel7$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel7$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel7.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel9$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel9$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel9.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Pacel9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Parcel10$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Parcel10$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Parcel10.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/Parcel10.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/TestPacel4.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/innerclassupcasting/TestPacel4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/linkoutside/Selector.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/linkoutside/Selector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/linkoutside/Sequence$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/linkoutside/Sequence$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/linkoutside/Sequence$SequenceSelector.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/linkoutside/Sequence$SequenceSelector.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/linkoutside/Sequence.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/linkoutside/Sequence.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/usethisandnew/DotNew$Inner.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/usethisandnew/DotNew$Inner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/usethisandnew/DotNew.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/usethisandnew/DotNew.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/usethisandnew/DotThis$Inner.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/usethisandnew/DotThis$Inner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/usethisandnew/DotThis.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/usethisandnew/DotThis.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/usethisandnew/Parcel3$Contents.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/usethisandnew/Parcel3$Contents.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/usethisandnew/Parcel3$Destination.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/usethisandnew/Parcel3$Destination.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/usethisandnew/Parcel3.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/usethisandnew/Parcel3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/whyneedinnerclass/Callbacks.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/whyneedinnerclass/Callbacks.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/whyneedinnerclass/Callee1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/whyneedinnerclass/Callee1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/whyneedinnerclass/Callee2$1.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/whyneedinnerclass/Callee2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/whyneedinnerclass/Callee2$Closure.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/whyneedinnerclass/Callee2$Closure.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/whyneedinnerclass/Callee2.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/whyneedinnerclass/Callee2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/whyneedinnerclass/Caller.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/whyneedinnerclass/Caller.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/whyneedinnerclass/Incrementable.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/whyneedinnerclass/Incrementable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/whyneedinnerclass/MyIncrement.class" afterPath="$PROJECT_DIR$/target/classes/com/hit/learn/thinkinginjava/innerclass/whyneedinnerclass/MyIncrement.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/mock/quickstart/ClassTested.class" afterPath="$PROJECT_DIR$/target/test-classes/mock/quickstart/ClassTested.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/mock/quickstart/Collaborator.class" afterPath="$PROJECT_DIR$/target/test-classes/mock/quickstart/Collaborator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/mock/quickstart/EasyMockTest.class" afterPath="$PROJECT_DIR$/target/test-classes/mock/quickstart/EasyMockTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_2_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_17.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_17.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_5_0_0_Alpha2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_5_0_0_Alpha2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_8_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_8_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_4_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_4_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_thrift_libthrift_0_9_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_6_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_6_11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_6_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_6_11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_13.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_9_1_1_v20140108.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_9_1_1_v20140108.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_1_1_v20140108.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_1_1_v20140108.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_1_1_v20140108.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_1_1_v20140108.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_2_3_v20140905.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_2_3_v20140905.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_1_1_v20140108.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_1_1_v20140108.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_2_3_v20140905.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_2_3_v20140905.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_1_1_v20140108.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_1_1_v20140108.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_2_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_jetty_http_2_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_jetty_http_2_7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_json_jackson_2_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_json_jackson_2_7.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_2_5_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_2_5_6.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_2_5_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_2_5_6.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_2_5_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_2_5_6.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_2_5_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_2_5_6.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scala_settings.xml" afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/hit/learn/MockElementA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/hit/learn/MockElementB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/hit/learn/MockitoTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_8_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/mock/quickstart/EasyMockTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/mock/quickstart/EasyMockTest.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThinkinCode.iml" afterPath="$PROJECT_DIR$/ThinkinCode.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/designpattern/state/Account.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/designpattern/state/Account.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/designpattern/state/GoldState.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/designpattern/state/GoldState.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/designpattern/state/RedState.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/designpattern/state/RedState.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/designpattern/state/SliverState.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/designpattern/state/SliverState.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/designpattern/state/State.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/designpattern/state/State.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/effectivejava/item27/GenericSingletonFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/effectivejava/item27/GenericSingletonFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/effectivejava/item27/UnaryFunction.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/effectivejava/item27/UnaryFunction.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/effectivejava/item28/Stack.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/effectivejava/item28/Stack.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/effectivejava/item28/StackTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/effectivejava/item28/StackTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/effectivejava/item29/Favorites.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/effectivejava/item29/Favorites.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/fastjson/Ad.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/fastjson/Ad.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/fastjson/ObjectConvertToJson.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/fastjson/ObjectConvertToJson.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/http/Application.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/http/Application.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/http/Httpserver.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/http/Httpserver.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/http/resources/CheckService.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/http/resources/CheckService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/anointerface/MockTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/anointerface/MockTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/anointerface/biz/A.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/anointerface/biz/A.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/anointerface/biz/B.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/anointerface/biz/B.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/anointerface/biz/C.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/anointerface/biz/C.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/anointerface/biz/D.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/anointerface/biz/D.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/anointerface/biz/Dimpl1.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/anointerface/biz/Dimpl1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/anointerface/biz/Dimpl2.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/anointerface/biz/Dimpl2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/aop/App.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/aop/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/aop/CustomerBo.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/aop/CustomerBo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/aop/CustomerBoImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/aop/CustomerBoImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/aop/LoggingAspect.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/spring/aop/LoggingAspect.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/test/GeneraicClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/test/GeneraicClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/test/Planet.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/test/Planet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/test/RecommendAd.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/test/RecommendAd.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/test/SortHelper.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/test/SortHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/test/Test.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/test/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/test/Test2.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/test/Test2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/test/TestMatchWord.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/test/TestMatchWord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/thinkinginjava/genetic/recursive/High.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/thinkinginjava/genetic/recursive/High.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/thinkinginjava/genetic/recursive/Man.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/thinkinginjava/genetic/recursive/Man.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hit/learn/thinkinginjava/genetic/recursive/Weight.java" afterPath="$PROJECT_DIR$/src/main/java/com/hit/learn/thinkinginjava/genetic/recursive/Weight.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/aop-demo.xml" afterPath="$PROJECT_DIR$/src/main/resources/aop-demo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/mock-test.xml" afterPath="$PROJECT_DIR$/src/main/resources/mock-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/mock/quickstart/ClassTested.java" afterPath="$PROJECT_DIR$/src/test/java/mock/quickstart/ClassTested.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/mock/quickstart/Collaborator.java" afterPath="$PROJECT_DIR$/src/test/java/mock/quickstart/Collaborator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/mock/quickstart/EasyMockTest.java" afterPath="$PROJECT_DIR$/src/test/java/mock/quickstart/EasyMockTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Spring-demo.xml" afterPath="$PROJECT_DIR$/target/classes/Spring-demo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/aop-demo.xml" afterPath="$PROJECT_DIR$/target/classes/aop-demo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/mock-test.xml" afterPath="$PROJECT_DIR$/target/classes/mock-test.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_2_4.xml" />
     </list>
     <ignored path="Thinkinginjava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -507,87 +30,13 @@
     <favorites_list name="Thinkinginjava" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hit/learn/test/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="13" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hit/learn/test/Test2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-              <folding>
-                <element signature="e#155#156#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestMatchWord.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hit/learn/test/TestMatchWord.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClassTested.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mock/quickstart/ClassTested.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Collaborator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mock/quickstart/Collaborator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EasyMockTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/mock/quickstart/EasyMockTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -603,14 +52,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/hit/learn/fastjson/ObjectConvertToJson.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ExampleTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ClassTested.java" />
-        <option value="$PROJECT_DIR$/src/test/java/mock/Service.java" />
-        <option value="$PROJECT_DIR$/src/test/java/mock/Collaborator.java" />
-        <option value="$PROJECT_DIR$/src/test/java/mock/EasyMockTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/mock/ClassTested.java" />
-        <option value="$PROJECT_DIR$/src/test/java/mock/quickstart/EasyMockTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hit/learn/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hit/learn/test/G.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hit/learn/test/GeneraicClass.java" />
@@ -653,7 +95,14 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/acceml/basic/lesson/Main.scala" />
         <option value="$PROJECT_DIR$/src/main/java/com/hit/learn/test/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hit/learn/test/TestMatchWord.java" />
+        <option value="$PROJECT_DIR$/src/test/java/mock/quickstart/EasyMockTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hit/learn/ArticleCalculator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hit/learn/MockElementA.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hit/learn/UserProvider.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hit/learn/MockElementB.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hit/learn/CalculatorHandlerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/hit/learn/MockitoTest.java" />
       </list>
     </option>
   </component>
@@ -836,6 +285,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thinkinginjava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThinkinginCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -879,111 +350,148 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.hit.learn" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\cygwin\home\Acceml\home\huming\src\mycode\ThinkinginCode\src\main\java\com\hit\learn\http" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestMatchWord">
-    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MockitoTest.testSpy">
+    <configuration default="false" name="MockitoTest.tutorialMockito" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.hit.learn.test.*" />
+          <option name="PATTERN" value="com.hit.learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.hit.learn.test.Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <module name="ThinkinCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="com.hit.learn" />
+      <option name="MAIN_CLASS_NAME" value="com.hit.learn.MockitoTest" />
+      <option name="METHOD_NAME" value="tutorialMockito" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThinkinCode" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="Function" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="MockitoTest.stubbingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.acceml.basic.chapter2.*" />
+          <option name="PATTERN" value="com.hit.learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.acceml.basic.chapter2.Function" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <module name="ThinkinCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="com.hit.learn" />
+      <option name="MAIN_CLASS_NAME" value="com.hit.learn.MockitoTest" />
+      <option name="METHOD_NAME" value="stubbingTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThinkinCode" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="Tuple" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="MockitoTest.testArgumentMatcher" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.acceml.basic.chapter4.*" />
+          <option name="PATTERN" value="com.hit.learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.acceml.basic.chapter4.Tuple" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <module name="ThinkinCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="com.hit.learn" />
+      <option name="MAIN_CLASS_NAME" value="com.hit.learn.MockitoTest" />
+      <option name="METHOD_NAME" value="testArgumentMatcher" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThinkinCode" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="MockitoTest.testStubbing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.acceml.basic.lesson.*" />
+          <option name="PATTERN" value="com.hit.learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.acceml.basic.lesson.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <module name="ThinkinCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="com.hit.learn" />
+      <option name="MAIN_CLASS_NAME" value="com.hit.learn.MockitoTest" />
+      <option name="METHOD_NAME" value="testStubbing" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThinkinCode" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="TestMatchWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="MockitoTest.testSpy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.hit.learn.test.*" />
+          <option name="PATTERN" value="com.hit.learn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.hit.learn.test.TestMatchWord" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <module name="ThinkinCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="com.hit.learn" />
+      <option name="MAIN_CLASS_NAME" value="com.hit.learn.MockitoTest" />
+      <option name="METHOD_NAME" value="testSpy" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ThinkinCode" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
       <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -1311,19 +819,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Function" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Tuple" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestMatchWord" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.MockitoTest.tutorialMockito" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.MockitoTest.stubbingTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.MockitoTest.testArgumentMatcher" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MockitoTest.testStubbing" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.MockitoTest.testSpy" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestMatchWord" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Tuple" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Function" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MockitoTest.testSpy" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MockitoTest.testStubbing" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.MockitoTest.testArgumentMatcher" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.MockitoTest.stubbingTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.MockitoTest.tutorialMockito" />
       </list>
     </recent_temporary>
   </component>
@@ -1356,54 +864,55 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EasyMockTest - 2016.10.18 at 20h 19m 18s.xml">
-      <configuration name="EasyMockTest" configurationId="JUnit" />
+    <history-entry file="CalculatorHandlerTest_stubbingTest - 2016.12.20 at 18h 49m 31s.xml">
+      <configuration name="CalculatorHandlerTest.stubbingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EasyMockTest_addDocument - 2016.10.18 at 20h 49m 24s.xml">
-      <configuration name="EasyMockTest.addDocument" configurationId="JUnit" />
+    <history-entry file="CalculatorHandlerTest_stubbingTest - 2016.12.20 at 18h 49m 44s.xml">
+      <configuration name="CalculatorHandlerTest.stubbingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EasyMockTest_testRemoveNonExistingDocument - 2016.10.18 at 20h 51m 03s.xml">
-      <configuration name="EasyMockTest.testRemoveNonExistingDocument" configurationId="JUnit" />
+    <history-entry file="CalculatorHandlerTest_testArgumentMatcher - 2016.12.20 at 18h 54m 17s.xml">
+      <configuration name="CalculatorHandlerTest.testArgumentMatcher" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EasyMockTest_testRemoveNonExistingDocument - 2016.10.18 at 20h 51m 36s.xml">
-      <configuration name="EasyMockTest.testRemoveNonExistingDocument" configurationId="JUnit" />
+    <history-entry file="CalculatorHandlerTest_testArgumentMatcher - 2016.12.20 at 18h 56m 15s.xml">
+      <configuration name="CalculatorHandlerTest.testArgumentMatcher" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EasyMockTest_testRemoveNonExistingDocument - 2016.10.18 at 21h 02m 11s.xml">
-      <configuration name="EasyMockTest.testRemoveNonExistingDocument" configurationId="JUnit" />
+    <history-entry file="CalculatorHandlerTest_testSpy - 2016.12.20 at 19h 16m 05s.xml">
+      <configuration name="CalculatorHandlerTest.testSpy" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EasyMockTest_testRemoveNonExistingDocument - 2016.10.18 at 21h 02m 25s.xml">
-      <configuration name="EasyMockTest.testRemoveNonExistingDocument" configurationId="JUnit" />
+    <history-entry file="CalculatorHandlerTest_testSpy - 2016.12.20 at 19h 18m 06s.xml">
+      <configuration name="CalculatorHandlerTest.testSpy" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EasyMockTest_testRemoveNonExistingDocument - 2016.10.18 at 21h 15m 59s.xml">
-      <configuration name="EasyMockTest.testRemoveNonExistingDocument" configurationId="JUnit" />
+    <history-entry file="CalculatorHandlerTest_testSpy - 2016.12.20 at 19h 19m 58s.xml">
+      <configuration name="CalculatorHandlerTest.testSpy" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EasyMockTest_testRemoveNonExistingDocument - 2016.10.18 at 21h 16m 20s.xml">
-      <configuration name="EasyMockTest.testRemoveNonExistingDocument" configurationId="JUnit" />
+    <history-entry file="CalculatorHandlerTest_testSpy - 2016.12.20 at 19h 20m 10s.xml">
+      <configuration name="CalculatorHandlerTest.testSpy" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EasyMockTest_testRemoveNonExistingDocument - 2016.10.18 at 21h 16m 34s.xml">
-      <configuration name="EasyMockTest.testRemoveNonExistingDocument" configurationId="JUnit" />
+    <history-entry file="CalculatorHandlerTest_testStubbing - 2016.12.20 at 19h 05m 22s.xml">
+      <configuration name="CalculatorHandlerTest.testStubbing" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="EasyMockTest_testRemoveNonExistingDocument - 2016.10.18 at 21h 16m 44s.xml">
-      <configuration name="EasyMockTest.testRemoveNonExistingDocument" configurationId="JUnit" />
+    <history-entry file="CalculatorHandlerTest_tutorialMockito - 2016.12.20 at 18h 48m 27s.xml">
+      <configuration name="CalculatorHandlerTest.tutorialMockito" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.49786323" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.50213677" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16950959" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55531454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54121476" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35140997" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48806942" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20042644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20042644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1413,7 +922,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.49786323" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1461,10 +969,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hit/learn/thinkinginjava/genetic/recursive/AvgWight.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hit/learn/thinkinginjava/genetic/recursive/ManPenis.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hit/learn/thinkinginjava/genetic/recursive/Penis.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hit/learn/thinkinginjava/genetic/recursive/Vagina.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hit/learn/thinkinginjava/genetic/recursive/Weight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1554,13 +1058,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/acceml/basic/chapter6/Accounts.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hit/learn/CalculatorHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hit/learn/netty/DiscardServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -1736,7 +1233,7 @@
         <state relative-caret-position="102">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding>
-            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1757,28 +1254,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mock/quickstart/Collaborator.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/mock/quickstart/EasyMockTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/mock/quickstart/EasyMockTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/mock/quickstart/Collaborator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hit/learn/CalculatorHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/apache-maven-3.3.9/package/org/mockito/mockito-all/1.8.4/mockito-all-1.8.4.jar!/org/mockito/MockitoAnnotations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hit/learn/MockitoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hit/learn/MockElementB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/hit/learn/MockElementA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
