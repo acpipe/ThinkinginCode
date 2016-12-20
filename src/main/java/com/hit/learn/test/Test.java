@@ -1,7 +1,7 @@
 package com.hit.learn.test;
 
-import java.util.HashSet;
-import java.util.Set;
+
+import net.sf.json.JSONObject;
 
 /**
  * Created by Acceml on 2016/10/12.
@@ -9,13 +9,8 @@ import java.util.Set;
 public class Test {
 
     public static void main(String[] args) {
-        Set<String> packageNameSet = new HashSet<String>();
-        if(packageNameSet.contains(null)) {
-            System.out.println("foo");
-        }
-        packageNameSet.add(null);
-        if(packageNameSet.contains(null)) {
-            System.out.println("foo");
-        }
+        JSONObject jsonObject = new JSONObject();
+        JSONObject multiJson = jsonObject.optJSONObject("ad_result_info").optJSONObject("multi_ad_info_list");
+        System.out.println(multiJson);
     }
 }
