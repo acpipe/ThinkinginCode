@@ -1,5 +1,7 @@
 package com.hit.learn.netty;
 
+import com.google.common.base.MoreObjects;
+import com.google.common.base.Objects;
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerAdapter;
 import io.netty.channel.ChannelHandlerContext;
@@ -18,5 +20,11 @@ public class DiscardServerHandler extends ChannelHandlerAdapter {
     @Override
     public void exceptionCaught(ChannelHandlerContext ctx, Throwable cause) throws Exception {
         super.exceptionCaught(ctx, cause);
+    }
+
+    @Override
+    public String toString() {
+        return MoreObjects.toStringHelper(this)
+                .toString();
     }
 }

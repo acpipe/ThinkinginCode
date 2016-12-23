@@ -280,7 +280,9 @@ public class MultiplicationService {
         public int n1; // required
         public int n2; // required
 
-        /** The set of fields this struct contains, along with convenience methods for finding and manipulating them. */
+        /**
+         * The set of fields this struct contains, along with convenience methods for finding and manipulating them.
+         */
         public enum _Fields implements org.apache.thrift.TFieldIdEnum {
             N1((short) 1, "n1"),
             N2((short) 2, "n2");
@@ -405,7 +407,9 @@ public class MultiplicationService {
             __isset_bitfield = EncodingUtils.clearBit(__isset_bitfield, __N1_ISSET_ID);
         }
 
-        /** Returns true if field n1 is set (has been assigned a value) and false otherwise */
+        /**
+         * Returns true if field n1 is set (has been assigned a value) and false otherwise
+         */
         public boolean isSetN1() {
             return EncodingUtils.testBit(__isset_bitfield, __N1_ISSET_ID);
         }
@@ -428,7 +432,9 @@ public class MultiplicationService {
             __isset_bitfield = EncodingUtils.clearBit(__isset_bitfield, __N2_ISSET_ID);
         }
 
-        /** Returns true if field n2 is set (has been assigned a value) and false otherwise */
+        /**
+         * Returns true if field n2 is set (has been assigned a value) and false otherwise
+         */
         public boolean isSetN2() {
             return EncodingUtils.testBit(__isset_bitfield, __N2_ISSET_ID);
         }
@@ -470,7 +476,9 @@ public class MultiplicationService {
             throw new IllegalStateException();
         }
 
-        /** Returns true if field corresponding to fieldID is set (has been assigned a value) and false otherwise */
+        /**
+         * Returns true if field corresponding to fieldID is set (has been assigned a value) and false otherwise
+         */
         public boolean isSet(_Fields field) {
             if (field == null) {
                 throw new IllegalArgumentException();
@@ -736,7 +744,9 @@ public class MultiplicationService {
 
         public int success; // required
 
-        /** The set of fields this struct contains, along with convenience methods for finding and manipulating them. */
+        /**
+         * The set of fields this struct contains, along with convenience methods for finding and manipulating them.
+         */
         public enum _Fields implements org.apache.thrift.TFieldIdEnum {
             SUCCESS((short) 0, "success");
 
@@ -849,7 +859,9 @@ public class MultiplicationService {
             __isset_bitfield = EncodingUtils.clearBit(__isset_bitfield, __SUCCESS_ISSET_ID);
         }
 
-        /** Returns true if field success is set (has been assigned a value) and false otherwise */
+        /**
+         * Returns true if field success is set (has been assigned a value) and false otherwise
+         */
         public boolean isSetSuccess() {
             return EncodingUtils.testBit(__isset_bitfield, __SUCCESS_ISSET_ID);
         }
@@ -880,7 +892,9 @@ public class MultiplicationService {
             throw new IllegalStateException();
         }
 
-        /** Returns true if field corresponding to fieldID is set (has been assigned a value) and false otherwise */
+        /**
+         * Returns true if field corresponding to fieldID is set (has been assigned a value) and false otherwise
+         */
         public boolean isSet(_Fields field) {
             if (field == null) {
                 throw new IllegalArgumentException();

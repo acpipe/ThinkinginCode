@@ -89,7 +89,6 @@ public class MockitoTest {
         Assert.assertEquals("one", spy.get(0));
         Assert.assertEquals("two", spy.get(1));
         when(spy.get(0)).thenReturn("foo");
-        System.out.println(spy.get(0));
         doReturn("foo").when(spy).get(0);
     }
 }

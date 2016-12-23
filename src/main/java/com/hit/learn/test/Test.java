@@ -1,7 +1,9 @@
 package com.hit.learn.test;
 
 
-import net.sf.json.JSONObject;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 
 /**
  * Created by Acceml on 2016/10/12.
@@ -9,8 +11,10 @@ import net.sf.json.JSONObject;
 public class Test {
 
     public static void main(String[] args) {
-        JSONObject jsonObject = new JSONObject();
-        JSONObject multiJson = jsonObject.optJSONObject("ad_result_info").optJSONObject("multi_ad_info_list");
-        System.out.println(multiJson);
+        List<String> list = new ArrayList<>();
+        Iterator<String> iterator = list.listIterator();
+        if(iterator == null) {
+            System.out.println("foo");
+        }
     }
 }
