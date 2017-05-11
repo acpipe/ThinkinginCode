@@ -1,14 +1,18 @@
 package com.hit.learn.test;
 
+import com.google.common.base.MoreObjects;
 import net.sf.json.JSONObject;
 
 /**
  * Created by Acceml on 2016/11/3.
  */
 public class TestMatchWord {
+    @Override
+    public String toString() {
+        return MoreObjects.toStringHelper(this)
+                .toString();
+    }
+
     public static void main(String[] args) {
-        JSONObject jsonObject = new JSONObject();
-        JSONObject multiJson = jsonObject.optJSONObject("ad_result_info").optJSONObject("multi_ad_info_list");
-        System.out.println(multiJson);
     }
 }

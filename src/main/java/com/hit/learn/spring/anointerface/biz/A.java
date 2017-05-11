@@ -1,5 +1,6 @@
 package com.hit.learn.spring.anointerface.biz;
 
+import com.google.common.base.MoreObjects;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -17,5 +18,12 @@ public class A {
 
     public void setB(B b) {
         this.b = b;
+    }
+
+    @Override
+    public String toString() {
+        return MoreObjects.toStringHelper(this)
+                .add("b", b)
+                .toString();
     }
 }

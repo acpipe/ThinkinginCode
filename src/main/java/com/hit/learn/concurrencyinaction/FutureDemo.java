@@ -7,6 +7,7 @@ import java.util.stream.Collectors;
 
 /**
  * Created by Acceml on 2017/5/11.
+ * 异步化.
  */
 public class FutureDemo {
     private final ExecutorService executorService = new ScheduledThreadPoolExecutor(100);
@@ -55,19 +56,19 @@ public class FutureDemo {
     private void mergeResultImgs(List<String> imgUrls, Future<List<String>> enhanceImgUrlsFuture) {
         //merge result
         try {
-            List<String> enhanceImgUrl = enhanceImgUrlsFuture.get();
-            imgUrls.addAll(enhanceImgUrl.stream().map(item -> "enhance Url from RPC:" + item).collect(Collectors.toList()));
-            System.out.println("-------------------");
-            for(String item : imgUrls) {
-                System.out.println(item);
-            }
-        } catch (InterruptedException e) {
-            Thread.currentThread().interrupt();
-            enhanceImgUrlsFuture.cancel(true);
-        } catch (ExecutionException e) {
-            e.printStackTrace();
+        List<String> enhanceImgUrl = enhanceImgUrlsFuture.get();
+        imgUrls.addAll(enhanceImgUrl.stream().map(item -> "enhance Url from RPC:" + item).collect(Collectors.toList()));
+        System.out.println("-------------------");
+        for(String item : imgUrls) {
+            System.out.println(item);
         }
+    } catch (InterruptedException e) {
+        Thread.currentThread().interrupt();
+        enhanceImgUrlsFuture.cancel(true);
+    } catch (ExecutionException e) {
+        e.printStackTrace();
     }
+}
 
     public static void main(String[] args) {
         FutureDemo futureDemo = new FutureDemo();
