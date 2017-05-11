@@ -10,4 +10,9 @@ public class Phone implements Callable {
         System.out.println("Call duration = " + (endTime - startTime));
         return null;
     }
+
+    public static Phone callStatic() {
+        System.out.println("callStatic");
+        return new Phone();
+    }
 }

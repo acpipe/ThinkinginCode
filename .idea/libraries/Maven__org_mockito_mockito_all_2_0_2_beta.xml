@@ -3,9 +3,7 @@
     <CLASSES>
       <root url="jar://D:/Program Files (x86)/apache-maven-3.3.9/package/org/mockito/mockito-all/2.0.2-beta/mockito-all-2.0.2-beta.jar!/" />
     </CLASSES>
-    <JAVADOC>
-      <root url="jar://D:/Program Files (x86)/apache-maven-3.3.9/package/org/mockito/mockito-all/2.0.2-beta/mockito-all-2.0.2-beta-javadoc.jar!/" />
-    </JAVADOC>
+    <JAVADOC />
     <SOURCES>
       <root url="jar://D:/Program Files (x86)/apache-maven-3.3.9/package/org/mockito/mockito-all/2.0.2-beta/mockito-all-2.0.2-beta-sources.jar!/" />
     </SOURCES>

@@ -3,9 +3,7 @@
     <CLASSES>
       <root url="jar://D:/Program Files (x86)/apache-maven-3.3.9/package/org/glassfish/jersey/core/jersey-server/2.7/jersey-server-2.7.jar!/" />
     </CLASSES>
-    <JAVADOC>
-      <root url="jar://D:/Program Files (x86)/apache-maven-3.3.9/package/org/glassfish/jersey/core/jersey-server/2.7/jersey-server-2.7-javadoc.jar!/" />
-    </JAVADOC>
+    <JAVADOC />
     <SOURCES>
       <root url="jar://D:/Program Files (x86)/apache-maven-3.3.9/package/org/glassfish/jersey/core/jersey-server/2.7/jersey-server-2.7-sources.jar!/" />
     </SOURCES>
