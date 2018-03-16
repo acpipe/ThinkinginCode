@@ -9,13 +9,11 @@
 target
 *.xml.bak
 *.iml
+*.flattened-pom.xml
 .idea
 
 # mac ignore
 .DS_Store
-
-#demo file
-AlexDemo.java
 
 #diff file
 diff*
