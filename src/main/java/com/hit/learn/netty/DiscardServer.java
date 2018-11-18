@@ -1,6 +1,5 @@
-package io.netty.example.discard;
+package com.hit.learn.netty;
 
-import com.hit.learn.netty.DiscardServerHandler;
 import io.netty.bootstrap.ServerBootstrap;
 
 import io.netty.channel.ChannelFuture;
